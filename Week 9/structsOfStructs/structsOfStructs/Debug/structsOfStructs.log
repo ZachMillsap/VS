@@ -1,0 +1,3 @@
+﻿  structsOfStructs.cpp
+C:\Users\zach1\source\repos\Week 9\structsOfStructs\structsOfStructs\structsOfStructs.cpp(51,7): warning C4101: 'compareStructs': unreferenced local variable
+  structsOfStructs.vcxproj -> C:\Users\zach1\source\repos\Week 9\structsOfStructs\Debug\structsOfStructs.exe
